@@ -8,6 +8,7 @@ However, using PAAS and SAAS services, we do not provision any infrastructure ou
 3. RDS for MySQL DB -> Used for Database operations
 
 Below is the architecture followed for the application:
+
 ![image](https://github.com/Rohit061199/profileapplication/assets/73810251/5681d798-2f9b-4caf-a867-7aa61f78c6ab)
 
 Separate Security group is created for the above services( mentioned as backend services here on) and rules are established to fecilitate communication between the services.
